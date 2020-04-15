@@ -1,0 +1,10 @@
+[package]
+name = "xcl"
+version = "0.1.0"
+authors = ["Devdutt Shenoi <devdutt@outlook.in>"]
+edition = "2018"
+
+[dependencies]
+lalrpop = "0.18.1"
+lalrpop-util = "0.18.1"
+regex = "1"
