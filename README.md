@@ -1,5 +1,5 @@
 # eXperimental Compiled Language of MEC
-This is a project where we are trying to build a compiled programming from scratch.
+This is a project where we are trying to build a compiled programming language.
 
 ### Contribution
 This is a project that needs a lot of background knowledge on compiler construction and language development. We strongly suggest that a person interested in contributing to the language learn [rust-lang](https://docs.rust-lang.org/book), a memory safe systems programming language.
